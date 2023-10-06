@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achmadrahmanm
 - 👀 I’m interested in small project that can be done in 1-6 month
-- 🌱 I’m currently learning node, express, react, mongodb
+- 🌱 I’m currently learning node, express, vue, mongodb
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me just search @achmadrahmanm on any social media
 
